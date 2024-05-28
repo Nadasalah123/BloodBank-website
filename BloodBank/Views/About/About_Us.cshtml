@@ -1,0 +1,101 @@
+﻿
+
+
+@{
+
+    ViewData["Title"] = "About ";
+}
+
+<script>
+
+    let scrollerId;
+
+    function startScroll() {
+        let id = setInterval(function () {
+            window.scrollTo(0, 750);
+            if (window.scrollY == 750) {
+                stopScroll();
+            }
+        }, 350);
+
+        return id;
+    }
+
+    function stopScroll() {
+        clearInterval(scrollerId);
+    }
+
+    scrollerId = startScroll();
+
+</script>
+<!-- ======= About Section ======= -->
+<section id="about" class="about">
+
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-5 col-lg-6   ">
+                <a><img src="~/assets/img/10.jpg" alt=""></a>
+            </div>
+
+            <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                <h3>About us</h3>
+                <p>
+                    As a sector, we are used to deposits, savings and lending; The Blood Bank is taking those concepts and turning them into a nationwide effort to get more people informed about blood donation and, ultimately, increase the giving thereof. By lending our time and making a different kind of deposit, the financial services market will save lives.
+                    The Blood Bank, launched in April 2023, believes that it has the ability to harness a large amount of interest from a wide-ranging community of possible donors. The requirement for blood is always high, however, the recommencement of certain procedures now that the Covid-19 vaccine is being rolled out means that demand — especially for certain types of blood and from specific donor demographics — is exceptionally huge.
+                    The Blood Bank was created to serve as a platform to educate and encourage those who can to donate. The bank’s website acts as a central portal, providing information about what giving blood entails and tracking the number of people in the financial services industry who register to become donors and eventually donate.
+                </p>
+
+
+                <h3>OPEN ARMS PROGRAM</h3>
+                <p>
+                    Blood Centers recognize the generosity of donors in a myriad of ways, from T-shirts, baseball caps and coffee mugs, to raffles and store loyalty points. While donors like to be appreciated, many don’t want tangible gifts.
+                    GBF’s Open Arms provides a lifesaving alternative where donors can forgo the gift item and instead direct their Blood Center to make a donation on their behalf to support poorly resourced blood programs in low-income countries.
+                </p>
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</section><!-- End About Section -->
+<!-- ======= About Section ======= -->
+<section id="about" class="about">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
+                <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+            </div>
+
+            <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                <h3>Our Stories</h3>
+                <p>
+                    “I first gave blood when I was a young firefighter. We were called to help rescue a woman who had been involved in a serious car accident. She had lost a lot of blood and held my hand while we cut her out of the vehicle. She wouldn't let it go and I went with her in the ambulance to the hospital.
+                    I remember saying to the surgeon that I wished there was something more I could do to help, and he said that if I really meant it, to go and donate some blood.
+                    I did then, and it's something I've done more than 60 times since. I'm incredibly passionate about it and encourage everyone to get involved. It doesn't take long, doesn’t cost anything, and by donating just a pint of blood you can save up to three lives - it's the greatest gift you can give.”
+                    Roger Morris
+                    Group Distribution Director, OneSavings Bank
+                </p>
+                <p>
+                    “I was inspired to give blood by my mum and dad who were regular donors and have been donating since the 1980s. As it happens, I have one of the rarer blood groups so I try to donate as often as I can.
+                    #Dosomethingamazing sums up exactly what giving blood is all about - you are helping someone or saving a life. And the biscuits you get post-donation are a bonus...
+                    The last time I donated, there was a lady who was giving for the 93rd time - this gives me the encouragement to keep on donating.”
+                    Tim Vigeon
+                    Head of Lending, Buckinghamshire Building Society
+                </p>
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</section><!-- End About Section -->

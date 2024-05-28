@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "Requist ";
+}
+
+<script>
+
+    let scrollerId;
+
+    function startScroll() {
+        let id = setInterval(function () {
+            window.scrollTo(0, 750);
+            if (window.scrollY == 750) {
+                stopScroll();
+            }
+        }, 350);
+
+        return id;
+    }
+
+    function stopScroll() {
+        clearInterval(scrollerId);
+    }
+
+    scrollerId = startScroll();
+
+</script>
+@model Needers
+<!-- ======= Donate Section ======= -->
+<section id="appointment" class="appointment section-bg">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Make a Blood Requist</h2>
+            <p>Make a  Requist by filling the form </p>
+        </div>
+
+        <form asp-action="needs" method="post" role="form" >
+            <div class="row">
+                <div class="col-md-4 form-group">
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-4 form-group mt-3 mt-md-0">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                    <div class="validate"></div>
+                </div>
+                <div class="col-md-4 form-group mt-3 mt-md-0">
+                    <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                    <div class="validate"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 form-group mt-3">
+
+                    <select name="gender" id="bloodtype" class="form-select">
+                        <option asp-for="gender" value="">Select Gender</option>
+                        <option asp-for="gender" value="Male"> Male</option>
+                        <option asp-for="gender" value="Female"> Female</option>
+
+                    </select>
+                    <div class="validate"></div>
+                </div>
+
+                <div class="col-md-4 form-group mt-3">
+                    <select name="BloodType" id="blood type" class="form-select">
+                        <option value="">Select Blood Type</option>
+                        <option value="A"> A</option>
+                        <option value="B">B</option>
+                        <option value="AB">AB</option>
+                        <option value="O">O</option>
+                    </select>
+                    <div class="validate"></div>
+                </div>
+            </div>
+
+
+
+            <div class="text-center"><button type="submit" class="btn btn-primary"> REQUIST</button></div>
+        </form>
+
+    </div>
+</section><!-- End Appointment Section -->

@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\migrations\\20240307205636_mohammed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\migrations\\20240307205636_mohammed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\migrations\\20230511110248_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\migrations\\20230511110248_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\migrations\\20230515114942_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\migrations\\20230515114942_ss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\migrations\\20230515122242_eman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\migrations\\20230515122242_eman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\controllers\\donatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\donatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\donate\\donation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\donate\\donation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\controllers\\needcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\needcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\need\\needs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\need\\needs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\about\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\about\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\contact\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\contact\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\models\\donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\models\\donors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\models\\communucation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\models\\communucation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\models\\needers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\models\\needers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|c:\\users\\microsoft\\desktop\\blood\\bloodbank\\bloodbank\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDDBBFCA-44BB-4A40-8485-DFB3D2DC5C2A}|BloodBank\\BloodBank.csproj|solutionrelative:bloodbank\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240307205636_mohammed.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20240307205636_mohammed.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Migrations\\20240307205636_mohammed.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20240307205636_mohammed.cs",
+              "RelativeToolTip": "BloodBank\\Migrations\\20240307205636_mohammed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:56:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About_Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\About\\About_Us.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\About\\About_Us.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\About\\About_Us.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\About\\About_Us.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1gAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Program.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Program.cs",
+              "RelativeToolTip": "BloodBank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodBank\\appsettings.json",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\appsettings.json",
+              "RelativeToolTip": "BloodBank\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T11:22:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20230511110248_first.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230511110248_first.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Migrations\\20230511110248_first.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230511110248_first.cs",
+              "RelativeToolTip": "BloodBank\\Migrations\\20230511110248_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20230515114942_ss.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230515114942_ss.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Migrations\\20230515114942_ss.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230515114942_ss.cs",
+              "RelativeToolTip": "BloodBank\\Migrations\\20230515114942_ss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAMoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonateController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\DonateController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\DonateController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\DonateController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\DonateController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:14.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20230515122242_eman.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230515122242_eman.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Migrations\\20230515122242_eman.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Migrations\\20230515122242_eman.cs",
+              "RelativeToolTip": "BloodBank\\Migrations\\20230515122242_eman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\StockController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "needs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Need\\needs.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Need\\needs.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Need\\needs.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Need\\needs.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv1oAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NeedController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\NeedController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\NeedController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\NeedController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\NeedController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Donation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Donate\\Donation.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Donate\\Donation.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Donate\\Donation.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Donate\\Donation.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwF0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact_Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Contact\\Contact_Us.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Contact\\Contact_Us.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Contact\\Contact_Us.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Contact\\Contact_Us.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv2cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBJwB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv6wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BloodBank\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Communucation.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Communucation.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Models\\Communucation.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Communucation.cs",
+              "RelativeToolTip": "BloodBank\\Models\\Communucation.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Donors.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Donors.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Models\\Donors.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Donors.cs",
+              "RelativeToolTip": "BloodBank\\Models\\Donors.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "stocks.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\stocks.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Models\\stocks.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\stocks.cs",
+              "RelativeToolTip": "BloodBank\\Models\\stocks.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Needers.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Needers.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Models\\Needers.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Models\\Needers.cs",
+              "RelativeToolTip": "BloodBank\\Models\\Needers.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "BloodBank\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "BloodBank\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBJwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:22:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "BloodBank\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Microsoft\\Desktop\\Blood\\BloodBank\\BloodBank\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "BloodBank\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:22:15.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
